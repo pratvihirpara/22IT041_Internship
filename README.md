@@ -1,4 +1,4 @@
-# 22IT041_Internship
+# Summerintership2024_22IT041
 # 🌟 Summer Internship 2024 - PHP Development at Agevole 🌟
 
 Welcome to my GitHub repository for the PHP Development Summer Internship 2024 at Agevole! This project showcases the work done during my 6-week internship, highlighting the skills and experience gained in PHP development.
